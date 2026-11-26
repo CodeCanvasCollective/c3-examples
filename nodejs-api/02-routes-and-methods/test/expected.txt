@@ -1,0 +1,6 @@
+Listening on port 3000
+GET /tasks -> 200 application/json [{"id":1,"title":"Learn Node.js"},{"id":2,"title":"Build an API"}]
+GET /tasks?done=false -> 200 application/json [{"id":1,"title":"Learn Node.js"},{"id":2,"title":"Build an API"}]
+GET /users -> 404 application/json {"error":"Not found"}
+POST /tasks -> 404 application/json {"error":"Not found"}
+GET /tasks/ -> 404 application/json {"error":"Not found"}

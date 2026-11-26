@@ -1,0 +1,3 @@
+Listening on port 3000
+GET / -> 200 Hello from Node.js
+GET /anything -> 200 Hello from Node.js
