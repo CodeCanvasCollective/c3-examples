@@ -1,0 +1,9 @@
+{
+  "name": "tasks-api",
+  "version": "1.0.0",
+  "description": "Episode 2 of 'Node.js API from zero': routes and HTTP methods",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

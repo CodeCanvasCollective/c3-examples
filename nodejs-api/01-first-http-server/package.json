@@ -1,0 +1,9 @@
+{
+  "name": "tasks-api",
+  "version": "1.0.0",
+  "description": "Episode 1 of 'Node.js API from zero': the first HTTP server",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
