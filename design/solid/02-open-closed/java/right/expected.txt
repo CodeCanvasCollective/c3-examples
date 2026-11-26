@@ -1,0 +1,3 @@
+Card payment: 2500p
+PayPal payment: 1050p
+Apple Pay payment: 500p
